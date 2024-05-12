@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @wa1ne
-- 👀 I’m learning Python, C++, HTML
